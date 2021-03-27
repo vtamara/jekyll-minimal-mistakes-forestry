@@ -16,3 +16,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- _posts/adj-6.7-aprendiendo-de-jesus-6.7.md
